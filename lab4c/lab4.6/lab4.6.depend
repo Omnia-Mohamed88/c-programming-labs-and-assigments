@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698011282 source:d:\iti intake44\c labs\lab4.4\lab4.6\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
